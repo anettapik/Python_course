@@ -1,0 +1,2 @@
+annapikuleva@MacBook-Air-Anna 1.1 % python3 wc.py input.txt
+ 248  11  11 input.txt
